@@ -1,2 +1,3 @@
 # Featurama
-Tools for feature analysis 
+Repository with tools for feature analysis 
+
